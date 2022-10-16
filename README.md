@@ -9,7 +9,7 @@ I love traveling ✈️, photography 📷, cooking and enjoying delicious food �
 
 The 2021 International Computer Programing Contest (ICPC) Asia Kunming Regional Contest bronze prize🥉
 
-### 📝 Publications
+### 📝 Scientific research experiences/Publications
 
 暂无捏
 
