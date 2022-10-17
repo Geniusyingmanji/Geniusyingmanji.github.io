@@ -2,7 +2,7 @@
  
 🤓 I'm yingmanji, an undergraduate student from Fujian Normal University.
  
-I love traveling ✈️, photography 📷, cooking and enjoying delicious food 🥘 .
+I love traveling ✈️, photography 📷, cooking 👨‍🍳 and enjoying delicious food 🥘 .
 
 
 ### 🏆 Competition Awards
