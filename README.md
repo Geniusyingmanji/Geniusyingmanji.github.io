@@ -1,8 +1,6 @@
 ### Hi there 👋
  
-🤓 I'm yingmanji, an undergraduate student from Fujian Normal University.
- 
-I love traveling ✈️, photography 📷, cooking 👨‍🍳 and enjoying delicious food 🥘 .
+🤓 My name is Yifan Zhou (周奕帆), I’m currently a junior undergraduate student at the School of Computer and Cyber Security (CCS), Fujian Normal University (FJNU), I love traveling ✈️, photography 📷, cooking 👨‍🍳 and enjoying delicious food 🥘 .
 
 
 ### 🏆 Competition Awards
