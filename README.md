@@ -13,7 +13,7 @@ The 2021 International Computer Programing Contest (ICPC) Asia Kunming Regional 
 
 ### 🎖 Scholarships and Honors
 
-2021-2022 National Scholarship
+2021-2022 National Scholarship (0.2%)
 
 2021-2022 The First Prize Scholarship
 
