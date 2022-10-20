@@ -15,10 +15,10 @@ The 2021 International Computer Programing Contest (ICPC) Asia Kunming Regional 
 
 2021-2022 National Scholarship (0.2%)
 
-2021-2022 The First Prize Scholarship
+2021-2022 The First Prize Scholarship of FJNU
 
 2021-2022 Excellent League Member
 
-2020-2021 The Second Prize Scholarship
+2020-2021 The Second Prize Scholarship of FJNU 
 
 2020-2021 Excellent Student Cadre
