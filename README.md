@@ -9,7 +9,7 @@ The 2021 International Computer Programing Contest (ICPC) Asia Kunming Regional 
 
 ### 📝 Scientific research experiences/Publications
 
-暂无捏
+暂无
 
 ### 🎖 Scholarships and Honors
 
