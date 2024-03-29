@@ -10,6 +10,7 @@ title                    : "Yifan Zhou"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
+url                      : https://geniusyingmanji.github.io            
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yifan Zhou"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Something for nothing."
   location         : "Shanghai, China"
