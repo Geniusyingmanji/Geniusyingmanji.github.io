@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yifan Zhou(周奕帆), I'm currently a postgraduate student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/).
 
-My research interest includes natural language processing and computer vision and I'm trying my best to explore it. 
+My research interest includes natural language processing and computer vision, now I'm trying my best to explore it. 
 
 🌟 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
