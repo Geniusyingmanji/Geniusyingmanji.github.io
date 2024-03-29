@@ -27,13 +27,13 @@ My research interest includes neural language processing and computer vision. I 
 
 # 📝 Publications 
 - [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation](https://github.com/IshiKura-a/AuG-KD?tab=readme-ov-file), **ICLR 2024**
-- [Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=spatial+feature+regularization+and+label+decoupling+based+cross-subject+motor+imagery+eeg+decoding&btnG=)**PRCV 2023**
+- [Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=spatial+feature+regularization+and+label+decoupling+based+cross-subject+motor+imagery+eeg+decoding&btnG=), **PRCV 2023**
 
 
 
 # 🎖 Honors and Awards
--  Silver Medal in the 48th ACM-ICPC International Collegiate Programming Competition Regional Competition.
--  
+-  Silver Medal in the 48th ACM-ICPC International Collegiate Programming Competition Regional Competition (Jinan).
+-  Bronze Medal in the 9th CCPC China Collegiate Programming Contest (Guilin).
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, Shanghai Jiao Tong University. 
