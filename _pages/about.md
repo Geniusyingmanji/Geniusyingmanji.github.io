@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Hi there 👋👋 !
 My name is Yifan Zhou(周奕帆), I'm currently a postgraduate student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes natural language processing and computer vision, now I'm trying my best to explore it. 
@@ -25,12 +26,13 @@ My research interest includes natural language processing and computer vision, n
 
 
 # 🔥 News
-- 
+- *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
+- *2023.10* Top 10 Student Figures of the Year (Award Rate: 0.03%), FJNU
+- *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📝 Publications 
 - [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation](https://github.com/IshiKura-a/AuG-KD?tab=readme-ov-file), **ICLR 2024**
 - [Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=spatial+feature+regularization+and+label+decoupling+based+cross-subject+motor+imagery+eeg+decoding&btnG=), **PRCV 2023**
-
 
 
 # 🎖 Honors and Awards
@@ -43,6 +45,9 @@ My research interest includes natural language processing and computer vision, n
 
 # 💬 Invited Talks
 - Sharing experience in recommending postgraduate students for exemption.
+
+# 👨‍🏫 Teaching Experiences
+- Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2022.
 
 # 💻 Internships
 - *2024.04 - now*, Tencent Rhino-Bird Scholar, Shenzhen China. 
