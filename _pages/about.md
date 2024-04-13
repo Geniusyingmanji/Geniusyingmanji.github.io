@@ -26,21 +26,26 @@ My research interest includes natural language processing and computer vision, n
 
 
 # 🔥 News
-- *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2023.10* Top 10 Student Figures of the Year (Award Rate: 0.03%), FJNU
-- *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
+- *2024.01* One paper is accepted by ICLR 2024.
+- *2023.08* One paper is accepted by PRCV 2023.
 
 # 📝 Publications 
 - [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation](https://github.com/IshiKura-a/AuG-KD?tab=readme-ov-file), **ICLR 2024**
 - [Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=spatial+feature+regularization+and+label+decoupling+based+cross-subject+motor+imagery+eeg+decoding&btnG=), **PRCV 2023**
 
 
-# 🎖 Honors and Awards
--  Silver Medal in the 48th ACM-ICPC International Collegiate Programming Competition Regional Competition (Jinan).
--  Bronze Medal in the 9th CCPC China Collegiate Programming Contest (Guilin).
+#  🏆 Competition Awards
+-  Silver Medal in the 48th ACM-ICPC International Collegiate Programming Competition Regional Competition (Jinan). 2023.12
+-  Bronze Medal in the 9th CCPC China Collegiate Programming Contest (Guilin). 2023.10
+-  Thrid Prize. The Lanqiao Cup Competition National Finals. 2022.08
+
+# 🎖 Scholarships and Honors
+- *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
+- *2023.10* Top 10 Student Figures of the Year (Award Rate: 0.03%), FJNU
+- *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*, Shanghai Jiao Tong University. 
+- *2024.09 - now*, Shanghai Jiao Tong University. 
 - *2020.09 - 2024.06*, Fujian Normal University. 
 
 # 💬 Invited Talks
