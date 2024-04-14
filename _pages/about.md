@@ -42,6 +42,7 @@ My research interest includes natural language processing and computer vision, n
 -  Thrid Prize. The Lanqiao Cup Competition National Finals. 2022.08
 
 # 🎖 Scholarships and Honors
+- *2024.04* Outstanding Graduate, FJNU
 - *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 - *2023.10* Top 10 Student Figures of the Year (Award Rate: 0.03%), FJNU
 - *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
