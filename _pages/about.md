@@ -55,7 +55,7 @@ My research interest includes natural language processing and computer vision, n
 - *2017.09 - 2020.06*, Taizhou No.1 High School.
 
 # 💬 Invited Talks
-- Sharing experience in recommending postgraduate students for exemption.
+- Sharing experience in recommended postgraduate students for exemption.
 
 # 👨‍🏫 Teaching Experiences
 - Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2022.
