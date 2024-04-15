@@ -51,7 +51,8 @@ My research interest includes natural language processing and computer vision, n
 
 # 📖 Educations
 - *2024.09 - now*, Shanghai Jiao Tong University. 
-- *2020.09 - 2024.06*, Fujian Normal University. 
+- *2020.09 - 2024.06*, Fujian Normal University.
+- *2017.09 - 2020.06*, Taizhou No.1 High School.
 
 # 💬 Invited Talks
 - Sharing experience in recommending postgraduate students for exemption.
