@@ -61,6 +61,6 @@ My research interest includes natural language processing and computer vision, n
 
 # 💻 Internships
 - *2024.04 - now*, Tencent Rhino-Bird Scholar, Shenzhen China. 
-- *2023.11 - 2024.03*, ByteDance, Hangzhou China.
+- *2023.11 - 2024.03*, ByteDance AML, Hangzhou China.
 - *2023.06 - 2023.11*, THU AIR, Wuxi China.
 
