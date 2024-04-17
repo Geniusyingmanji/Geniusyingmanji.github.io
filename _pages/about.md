@@ -29,6 +29,7 @@ My research interest includes natural language processing and computer vision, n
 
 # 🔥 News
 - *2024.01* 🎉🎉 One paper is accepted by ICLR 2024.
+- *2024.10* 🎉🎉 I'm admitted to the Computer Science Department of Shanghai Jiao Tong University.
 - *2023.08* 🎉🎉 One paper is accepted by PRCV 2023.
 
 # 📝 Publications 
