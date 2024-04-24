@@ -27,7 +27,7 @@ My research interest includes natural language processing and computer vision, n
 
 🌟 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
-🌟 I'm also actively seeking a research internship and a PhD position starting in fall 2027. If you are interested in my research, please feel free to contact!
+🌟 I'm also actively seeking a PhD position starting in fall 2027. If you are interested in my research, please feel free to contact!
 
 
 # 🔥 News
