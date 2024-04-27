@@ -36,8 +36,8 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - *2023.08* 🎉🎉 One paper is accepted by PRCV 2023.
 
 # 📝 Publications 
-- AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [paper](https://github.com/IshiKura-a/AuG-KD?tab=readme-ov-file), **ICLR 2024**
-- Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding [paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=spatial+feature+regularization+and+label+decoupling+based+cross-subject+motor+imagery+eeg+decoding&btnG=), **PRCV 2023**
+- AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [[paper](https://github.com/IshiKura-a/AuG-KD?tab=readme-ov-file)], **ICLR 2024**
+- Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding [[paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=spatial+feature+regularization+and+label+decoupling+based+cross-subject+motor+imagery+eeg+decoding&btnG=)], **PRCV 2023**
 
 
 #  🏆 Competition Awards
