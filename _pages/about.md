@@ -23,7 +23,7 @@ redirect_from:
 Hi there 👋👋 !
 My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September. Wish me good luck!
 
-My research interest includes natural language processing and computer vision, now I'm trying my best to explore it. 
+My research interest includes 3D computer vision and LLM, now I'm trying my best to explore. 
 
 🌟 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
