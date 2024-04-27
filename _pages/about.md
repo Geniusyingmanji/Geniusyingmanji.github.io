@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-### 你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!
+## 你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!
 
 Hi there 👋👋 !
-My name is Ivan Zhou(周奕帆), I'm currently a postgraduate student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/).
+My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September. Wish me good luck!
 
 My research interest includes natural language processing and computer vision, now I'm trying my best to explore it. 
 
@@ -56,7 +56,6 @@ My research interest includes natural language processing and computer vision, n
 # 📖 Educations
 - *2024.09 - now*, Shanghai Jiao Tong University. 
 - *2020.09 - 2024.06*, Fujian Normal University.
-- *2017.09 - 2020.06*, Taizhou No.1 High School.
 
 # 💬 Invited Talks
 - Sharing experience in recommended postgraduate students for exemption.
