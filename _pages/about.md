@@ -60,14 +60,14 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - *2020.09 - 2024.06*, Fujian Normal University.
 
 # 💬 Invited Talks
-- Sharing experience in recommended postgraduate students for exemption.
+- Sharing experience in recommended postgraduate students for exemption, Spring 2024.
 
 # 👨‍🏫 Teaching Experiences
 - Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2023.
 - Teaching Assistant, Digital Image Processing, Undergrads, CCCS, FJNU, Spring 2023.
 
 # 💻 Internships
-- *2024.04 - now*, Tencent Rhino-Bird Scholar, Shenzhen China. 
-- *2023.11 - 2024.03*, ByteDance AML, Hangzhou China.
+- *2024.04 - now*, Tencent Rhino-Bird Elite Training Program, WeChat AI, Shenzhen China. 
+- *2023.11 - 2024.03*, ByteDance AML - Application algorithm, Hangzhou China.
 - *2023.06 - 2023.11*, THU AIR, Wuxi China.
 
