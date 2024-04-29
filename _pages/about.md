@@ -52,7 +52,7 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 # 🎖 Scholarships and Honors
 - *2024.04* Outstanding Graduate, FJNU
 - *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2023.10* Top 10 Student Figures of the Year (Award Rate: 0.03%), FJNU
+- *2023.10* Top 10 Student Figures of the Year (Top 10 students in the school each year, Award Rate: 0.03%), FJNU
 - *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📖 Educations
