@@ -21,9 +21,7 @@ redirect_from:
 ## 你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!
 
 Hi there 👋👋 !
-My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September. Wish me good luck!
-
-My research interest includes 3D computer vision and LLM, now I'm trying my best to explore. 
+My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September. My research interest includes 3D computer vision and LLM, now I'm trying my best to explore. Wish me good luck!
 
 🌟 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
@@ -63,7 +61,8 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - Sharing experience in recommended postgraduate students for exemption.
 
 # 👨‍🏫 Teaching Experiences
-- Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2022.
+- Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2023.
+- Teaching Assistant, Digital Image Processing, Undergrads, CCCS, FJNU, Spring 2023.
 
 # 💻 Internships
 - *2024.04 - now*, Tencent Rhino-Bird Scholar, Shenzhen China. 
