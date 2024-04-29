@@ -9,14 +9,20 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Competition Awards"
+    url: "/#-competition awards"
+    
+  - title: "Scholarships and Honors"
+    url: "/#-Scholarships and Honors"
 
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
+
+  - title: "Teaching Experiences"
+    url: "/#-teaching experiences"
 
   - title: "Internships"
     url: "/#-internships"
