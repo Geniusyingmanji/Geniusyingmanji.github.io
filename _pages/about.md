@@ -25,7 +25,7 @@ My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJT
 
 My research interest includes 3D computer vision and LLM, now I'm trying my best to explore. Wish me good luck!
 
-🌟 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
+🌟 I’m open to any possible discussions or collaborate opportunities. If you are interested in working with me, don’t hesitate to drop me an email!
 
 🌟 I'm also actively seeking a PhD position starting in fall 2027. If you are interested in my research, please feel free to contact!
 
