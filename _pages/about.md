@@ -69,6 +69,9 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2023.
 - Teaching Assistant, Digital Image Processing, Undergrads, CCCS, FJNU, Spring 2023.
 
+</div>
+</div>
+
 # 💻 Internships
 - *2024.04 - now*, Tencent Rhino-Bird Elite Training Program, Pattern Recognition Center, WeChat AI, Shenzhen China. 
 - *2023.11 - 2024.03*, ByteDance AML - Application algorithm, Hangzhou China.
