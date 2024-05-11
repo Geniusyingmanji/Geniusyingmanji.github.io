@@ -63,7 +63,7 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - Sharing experience in recommended postgraduate students for exemption, Spring 2024.
 
 # 👨‍🏫 Teaching Experiences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TA algorithm</div><img src='images/algorithm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TA-algorithm</div><img src='images/algorithm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2023.
