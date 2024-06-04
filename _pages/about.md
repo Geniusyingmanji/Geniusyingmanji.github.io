@@ -73,7 +73,7 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 </div>
 
 # 💻 Internships
-- *2024.04 - now*, Tencent Rhino-Bird Elite Training Program, Pattern Recognition Center, WeChat AI, Shenzhen China. 
+- *2024.04 - now*, Tencent Rhino-Bird Elite Training Program, Pattern Recognition Center, [WeChat AI](https://ai.weixin.qq.com/), Shenzhen China. 
 - *2023.11 - 2024.03*, ByteDance AML - Application algorithm, Hangzhou China.
 - *2023.06 - 2023.11*, THU AIR, Wuxi China.
 
