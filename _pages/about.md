@@ -21,7 +21,7 @@ redirect_from:
 ## 你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!
 
 Hi there 👋👋 !
-My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September. 
+My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September, superviesd by [Junchi Yan](https://thinklab.sjtu.edu.cn/) and [Xue Yang](https://yangxue0827.github.io/).
 
 My research interest includes 3D computer vision and LLM, now I'm trying my best to explore. Wish me good luck!
 
