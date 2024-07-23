@@ -47,6 +47,7 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - *2023.10* Bronze Medal in the 9th CCPC China Collegiate Programming Contest (Guilin).
 - *2023.05* Honorable Mention. Mathematical Contest in Modeling.
 - *2023.03* Second Prize. Group Programming Ladder Tournament.
+- *2022.11* Bronze Medal in the 8th CCPC China Collegiate Programming Contest (Guangzhou).
 - *2022.08* Thrid Prize. The Lanqiao Cup Competition National Finals.
 
 # 🎖 Scholarships and Honors
@@ -56,7 +57,7 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📖 Educations
-- *2024.09 - now*, Shanghai Jiao Tong University. 
+- *2024.09 - 2027.06(expected)*, Shanghai Jiao Tong University. 
 - *2020.09 - 2024.06*, Fujian Normal University.
 
 # 💬 Invited Talks
