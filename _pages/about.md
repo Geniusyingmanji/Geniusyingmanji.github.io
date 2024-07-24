@@ -46,6 +46,7 @@ My research interest includes 3D computer vision and LLM, now I'm trying my best
 - *2023.12* Silver Medal in the 48th ACM-ICPC International Collegiate Programming Competition Regional Competition (Jinan).
 - *2023.10* Bronze Medal in the 9th CCPC China Collegiate Programming Contest (Guilin).
 - *2023.05* Honorable Mention. Mathematical Contest in Modeling.
+- *2023.04* Second Prize Nomination. Undergraduate Mathematical Modeling Competition.
 - *2023.03* Second Prize. Group Programming Ladder Tournament.
 - *2022.11* Bronze Medal in the 8th CCPC China Collegiate Programming Contest (Guangzhou).
 - *2022.08* Thrid Prize. The Lanqiao Cup Competition National Finals.
