@@ -21,9 +21,9 @@ redirect_from:
 ## 你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!
 
 Hi there 👋👋 !
-My name is Ivan Zhou(周奕帆), I will enter [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/) to start my postgraduate life this September, superviesd by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/) and [Dr. Xue Yang](https://yangxue0827.github.io/).
+My name is Ivan Zhou(周奕帆), a graduate student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/), superviesd by [Prof. Xue Yang](https://yangxue0827.github.io/) and [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/) .
 
-My research interest includes 3D computer vision and LLM, now I'm trying my best to explore. Wish me good luck!
+My research interest includes VLM, LLM and 3D computer vision, now I'm trying my best to explore. Wish me good luck!
 
 🌟 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
