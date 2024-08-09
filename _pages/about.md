@@ -62,6 +62,10 @@ My research interest includes VLM, LLM and 3D computer vision, now I'm trying my
 - *2024.09 - 2027.06(expected)*, Shanghai Jiao Tong University. 
 - *2020.09 - 2024.06*, Fujian Normal University.
 
+# ⚙️ Projects
+[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected 500 more stars on GitHub.
+
+
 # 💬 Invited Talks
 - Sharing experience in recommended postgraduate students for exemption, Spring 2024.
 
