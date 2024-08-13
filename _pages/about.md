@@ -59,7 +59,7 @@ My research interest includes VLM, LLM and 3D computer vision, now I'm trying my
 - *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📖 Educations
-- *2024.09 - 2027.06(expected)*, Shanghai Jiao Tong University. 
+- *2024.09 - now*, Shanghai Jiao Tong University. 
 - *2020.09 - 2024.06*, Fujian Normal University.
 
 # ⚙️ Projects
