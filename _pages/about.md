@@ -79,6 +79,9 @@ My research interests lie in VLM, LLM and 3D computer vision, now I'm trying my 
 </div>
 </div>
 
+# 📚 Academic Activities
+- Empirical Methods in Natural Language Processing (EMNLP). Reviewer: 2024;
+
 # 💻 Internships
 - *2024.04 - now*, [Tencent Rhino-Bird Elite Training Program](https://www.wizsci.com/project/detail/1496), Pattern Recognition Center, [WeChat AI](https://ai.weixin.qq.com/), Shenzhen China. 
 - *2023.11 - 2024.03*, [ByteDance](https://www.bytedance.com/en/) AML - Application algorithm, Hangzhou China.
