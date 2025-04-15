@@ -32,8 +32,8 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 
 # 🔥 News
-- *2024.01* 🎉🎉 One paper is accepted by ICLR 2024.
-- *2023.08* 🎉🎉 One paper is accepted by PRCV 2023.
+- *2024.01* 🎉🎉 [[AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR)] is accepted by ICLR 2024. See you in Vienna!
+- *2023.08* 🎉🎉 [[SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34)] is accepted by PRCV 2023. See you in Xiamen!
 
 # 📝 Publications 
 - AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [[paper](https://openreview.net/forum?id=fcqWJ8JgMR)] 
