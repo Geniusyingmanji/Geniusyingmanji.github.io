@@ -32,8 +32,8 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 
 # 🔥 News
-- *2024.01* 🎉🎉 [[AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR)] is accepted by ICLR 2024. See you in Vienna!
-- *2023.08* 🎉🎉 [[SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34)] is accepted by PRCV 2023. See you in Xiamen!
+- *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna!
+- *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen!
 
 # 📝 Publications 
 - AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [[paper](https://openreview.net/forum?id=fcqWJ8JgMR)] 
@@ -82,7 +82,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 - Conference on Empirical Methods in Natural Language Processing (EMNLP). Reviewer: 2024.
 
 # 💻 Internships
-- *2025.03 - now*, Shanghai AI Laboratory
+- *2025.04 - now*, Shanghai AI Laboratory
 - *2024.04 - 2025.03*, [Tencent Rhino-Bird Elite Training Program](https://www.wizsci.com/project/detail/1496), Pattern Recognition Center, [WeChat AI](https://ai.weixin.qq.com/)
 - *2023.11 - 2024.03*, [ByteDance](https://www.bytedance.com/en/) AML - Application algorithm
 - *2023.06 - 2023.11*, THU AIR
