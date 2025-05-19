@@ -32,7 +32,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 
 # 🔥 News
-- *2025.05* 🎉🎉 [ChartToM](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. 
+- *2025.05* 🎉🎉 [ChartToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. 
 - *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna!
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen!
 
@@ -85,6 +85,6 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 # 💻 Internships
 - *2025.04 - now*, Shanghai AI Laboratory
 - *2024.04 - 2025.03*, [Tencent Rhino-Bird Elite Training Program](https://www.wizsci.com/project/detail/1496), Pattern Recognition Center, [WeChat AI](https://ai.weixin.qq.com/)
-- *2023.11 - 2024.03*, [ByteDance](https://www.bytedance.com/en/) AML - Application algorithm
+- *2023.11 - 2024.03*, [ByteDance](https://www.bytedance.com/en/)
 - *2023.06 - 2023.11*, THU AIR
 
