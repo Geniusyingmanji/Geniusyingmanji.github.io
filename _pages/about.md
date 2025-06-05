@@ -85,7 +85,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 # 💻 Internships
 - *2025.04 - now*, Shanghai AI Laboratory
-- *2024.04 - 2025.03*, [Tencent Rhino-Bird Elite Training Program](https://www.wizsci.com/project/detail/1496), Pattern Recognition Center, [WeChat AI](https://ai.weixin.qq.com/)
-- *2023.11 - 2024.03*, [ByteDance](https://www.bytedance.com/en/)
+- *2024.04 - 2025.03*, Tencent
+- *2023.11 - 2024.03*, ByteDance
 - *2023.06 - 2023.11*, THU AIR
 
