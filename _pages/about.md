@@ -32,7 +32,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 
 # 🔥 News
-- *2025.05* 🎉🎉 [ChartToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. 
+- *2025.05* 🎉🎉 [ChartToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna!
 - *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna!
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen!
 
