@@ -64,7 +64,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 - *2020.09 - 2024.06*, Fujian Normal University.
 
 # ⚙️ Projects
-[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected 600 more stars on GitHub.
+[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected *700* more stars on GitHub.
 
 
 # 💬 Invited Talks
