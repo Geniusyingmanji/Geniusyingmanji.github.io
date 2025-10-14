@@ -40,7 +40,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mm-helix.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[homepage](https://mm-helix.github.io/)] [[paper](https://arxiv.org/abs/2510.08540)] 
+【MM-HELIX】 MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[homepage](https://mm-helix.github.io/)] [[paper](https://arxiv.org/abs/2510.08540)] 
  [[code](https://github.com/PhoenixZ810/MM-HELIX)], preprint
 
 </div>
@@ -49,7 +49,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='images/chart-tom.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters [[paper](https://arxiv.org/abs/2501.01705)] [[data](https://huggingface.co/datasets/ZeroXeno/CharToM-QA)], **ACL 2025**
+【ChartToM】 The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters [[paper](https://arxiv.org/abs/2501.01705)] [[data](https://huggingface.co/datasets/ZeroXeno/CharToM-QA)], **ACL 2025**
 
 </div>
 </div>
@@ -57,7 +57,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2024</div><img src='images/aug-kd.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [[paper](https://openreview.net/forum?id=fcqWJ8JgMR)] 
+【AuG-KD】 AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [[paper](https://openreview.net/forum?id=fcqWJ8JgMR)] 
  [[code](https://github.com/IshiKura-a/AuG-KD)], **ICLR 2024**
 
 </div>
@@ -66,7 +66,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV-2023</div><img src='images/prcv.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34)] [[code](https://github.com/Geniusyingmanji/SFRLD)], **PRCV 2023**
+【SFPLR】 Spatial Feature Regularization and Label Decoupling Based Cross-Subject Motor Imagery EEG Decoding [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34)] [[code](https://github.com/Geniusyingmanji/SFRLD)], **PRCV 2023**
 
 </div>
 </div>
