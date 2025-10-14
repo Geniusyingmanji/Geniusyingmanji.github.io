@@ -37,7 +37,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mm-helix.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[homepage](https://mm-helix.github.io/)] [[paper](https://arxiv.org/abs/2510.08540)] 
