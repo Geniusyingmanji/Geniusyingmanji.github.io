@@ -37,8 +37,15 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
-- MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[paper](https://arxiv.org/abs/2510.08540)] 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[homepage](https://mm-helix.github.io/)] [[paper](https://arxiv.org/abs/2510.08540)] 
  [[code](https://github.com/PhoenixZ810/MM-HELIX)], preprint
+
+</div>
+</div>
+
 - The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters [[paper](https://arxiv.org/abs/2501.01705)] [[data](https://huggingface.co/datasets/ZeroXeno/CharToM-QA)], **ACL 2025**
 - AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation [[paper](https://openreview.net/forum?id=fcqWJ8JgMR)] 
  [[code](https://github.com/IshiKura-a/AuG-KD)], **ICLR 2024**
