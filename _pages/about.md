@@ -32,7 +32,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 
 # 🔥 News
-- *2025.05* 🎉🎉 [ChartToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna🇦🇹!
+- *2025.05* 🎉🎉 [CharToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna🇦🇹!
 - *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna🇦🇹!
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
@@ -49,7 +49,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='images/chart-tom.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-【ChartToM】 The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters [[paper](https://arxiv.org/abs/2501.01705)] [[data](https://huggingface.co/datasets/ZeroXeno/CharToM-QA)], **ACL 2025**
+【CharToM】 The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters [[paper](https://arxiv.org/abs/2501.01705)] [[data](https://huggingface.co/datasets/ZeroXeno/CharToM-QA)], **ACL 2025**
 
 </div>
 </div>
