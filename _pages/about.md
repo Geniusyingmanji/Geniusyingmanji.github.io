@@ -41,7 +41,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 <div class='paper-box-text' markdown="1">
 
 【MM-HELIX】 MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[homepage](https://mm-helix.github.io/)] [[paper](https://arxiv.org/abs/2510.08540)] 
- [[code](https://github.com/PhoenixZ810/MM-HELIX)], preprint
+ [[code](https://github.com/PhoenixZ810/MM-HELIX)] [[data](https://huggingface.co/datasets/mjuicem/MM-HELIX-100K)] [[model](https://huggingface.co/PhoenixZ/MM-HELIX-7B-Thinking)], preprint
 
 </div>
 </div>
