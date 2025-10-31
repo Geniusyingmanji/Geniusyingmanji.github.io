@@ -114,7 +114,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 # 💻 Internships
 - *2025.04 - now*, Shanghai AI Laboratory
-- *2024.04 - 2025.03*, Tencent
+- *2024.06 - 2025.03*, Tencent
 - *2023.11 - 2024.03*, ByteDance
 - *2023.06 - 2023.11*, THU AIR
 
