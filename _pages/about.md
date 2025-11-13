@@ -111,6 +111,7 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 
 # 📚 Academic Activities
 - Conference on Empirical Methods in Natural Language Processing (EMNLP). Reviewer: 2024, 2025.
+- Conference on Neural Information Processing Systems (NeurIPS). Reviewer: 2025.
 
 # 💻 Internships
 - *2025.04 - now*, Shanghai AI Laboratory
