@@ -8,6 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;  /* 控制图文水平间距，调小即可 */
+}
+
+.paper-box-image {
+  margin-right: 5px !important;  /* 再次压缩右间距 */
+}
+
+.paper-box-image img {
+  margin-bottom: 0 !important; /* 去除图片下方的默认空隙 */
+}
+
+.paper-box-text {
+  padding-left: 5px !important; /* 控制文字左缩进 */
+}
+</style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
