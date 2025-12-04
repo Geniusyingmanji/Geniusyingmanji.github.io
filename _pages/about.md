@@ -10,23 +10,25 @@ redirect_from:
 
 <style>
 .paper-box {
-  display: flex;
+  display: flex !important;       /* 强制横向布局 */
+  flex-direction: row !important; /* 不允许切换为 column */
   align-items: flex-start;
-  gap: 10px;  /* 控制图文水平间距，调小即可 */
+  gap: 10px;  /* 图文间距，你可以调 */
 }
 
 .paper-box-image {
-  margin-right: 5px !important;  /* 再次压缩右间距 */
+  margin-right: 5px !important;
 }
 
 .paper-box-image img {
-  margin-bottom: 0 !important; /* 去除图片下方的默认空隙 */
+  margin-bottom: 0 !important;
 }
 
 .paper-box-text {
-  padding-left: 5px !important; /* 控制文字左缩进 */
+  padding-left: 5px !important;
 }
 </style>
+
 
 
 {% if site.google_scholar_stats_use_cdn %}
