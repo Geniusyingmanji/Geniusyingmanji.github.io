@@ -8,26 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.paper-box {
-  display: flex !important;       /* 强制横向布局 */
-  flex-direction: row !important; /* 不允许切换为 column */
-  align-items: flex-start;
-  gap: 10px;  /* 图文间距，你可以调 */
-}
-
-.paper-box-image {
-  margin-right: 5px !important;
-}
-
-.paper-box-image img {
-  margin-bottom: 0 !important;
-}
-
-.paper-box-text {
-  padding-left: 5px !important;
-}
-</style>
 
 
 
