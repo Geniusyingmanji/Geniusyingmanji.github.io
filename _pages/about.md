@@ -97,8 +97,9 @@ My research interests lie in VLM, LLM and Agents, now I'm trying my best to expl
 - *2020.09 - 2024.06*, Fujian Normal University.
 
 # ⚙️ Projects
-[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected *700* more stars on GitHub.
+[SciEvalKit](https://github.com/InternScience/SciEvalKit)(core contributor): SciEval is an open-source evaluation framework and leaderboard for measuring the scientific intelligence of large language and vision–language models.
 
+[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected *700* more stars on GitHub.
 
 # 💬 Invited Talks
 - Sharing experience in recommended postgraduate students for exemption, Spring 2024.
