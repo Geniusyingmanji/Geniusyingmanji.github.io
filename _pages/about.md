@@ -27,7 +27,7 @@ Hi there 👋👋 !
 
 My name is Ivan Zhou(周奕帆), a graduate student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/), superviesd by [Prof. Xue Yang](https://yangxue0827.github.io/) and [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).
 
-My research interests lie in VLM, LLM and Agents, now I'm trying my best to explore. Wish me good luck!
+My research interests lie in VLM and Agents, now I'm trying my best to explore. Wish me good luck!
 
 🌟 I’m open to any possible discussions or collaboration opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
