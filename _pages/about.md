@@ -15,7 +15,7 @@ redirect_from:
     flex-direction: row !important; /* 强制水平排列 */
     flex-wrap: nowrap !important;   /* 禁止换行 */
     align-items: flex-start !important; 
-    gap: 15px !important;           /* 【核心】修改这个值来控制间距，越小越近 */
+    gap: 10px !important;           /* 【核心】修改这个值来控制间距，越小越近 */
     margin-bottom: 1.5rem;
 }
 
