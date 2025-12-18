@@ -9,13 +9,35 @@ redirect_from:
 ---
 
 <style>
-/* 调整 Publication 容器的布局 */
+/* 强制图片和文字在同一行，并控制间距 */
 .paper-box {
     display: flex !important;
-    gap: 15px !important; /* 这里控制图片和文字的间距，你可以根据需要调小，如 10px 或 5px */
-    margin-bottom: 20px;
+    flex-direction: row !important; /* 强制水平排列 */
+    flex-wrap: nowrap !important;   /* 禁止换行 */
+    align-items: flex-start !important; 
+    gap: 10px !important;           /* 【核心】修改这个值来控制间距，越小越近 */
+    margin-bottom: 1.5rem;
 }
 
+/* 保持图片容器宽度固定 */
+.paper-box-image {
+    flex: 0 0 120px !important;    /* 【核心】固定图片容器宽度，你可以根据需要调整 px 值 */
+    min-width: 120px !important;
+    margin-right: 0 !important;
+}
+
+/* 图片本身宽度 */
+.paper-box-image img {
+    width: 100% !important;        /* 让图片填满上面设定的 120px 容器 */
+    height: auto;
+}
+
+/* 文字部分自动填充剩余空间 */
+.paper-box-text {
+    flex: 1 !important;
+    padding-left: 0 !important;
+    margin-top: 0 !important;
+}
 </style>
 
 
