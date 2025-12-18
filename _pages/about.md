@@ -40,20 +40,28 @@ My research interests lie in VLM and Agents, now I'm trying my best to explore. 
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+【SGI】 Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows [[homepage](https://internscience.github.io/SGI-Page/)] [[code](https://github.com/InternScience/SGI-Bench)] [[data](https://huggingface.co/collections/InternScience/sgi-bench)], preprint
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+【SciEvalKit】 SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence [[homepage](https://opencompass.org.cn/Intern-Discovery-Eval)], preprint
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 【MM-HELIX】 MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization [[homepage](https://mm-helix.github.io/)] [[paper](https://arxiv.org/abs/2510.08540)] 
  [[code](https://github.com/PhoenixZ810/MM-HELIX)] [[data](https://huggingface.co/datasets/mjuicem/MM-HELIX-100K)] [[model](https://huggingface.co/PhoenixZ/MM-HELIX-7B-Thinking)], preprint
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL-2025</div><img src='images/chart-tom.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 【CharToM】 The Essence of Contextual Understanding in Theory of Mind: A Study on Question Answering with Story Characters [[paper](https://arxiv.org/abs/2501.01705)] [[data](https://huggingface.co/datasets/ZeroXeno/CharToM-QA)], **ACL 2025**
-
 </div>
 </div>
 
