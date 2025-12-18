@@ -16,25 +16,6 @@ redirect_from:
     margin-bottom: 20px;
 }
 
-/* 缩减图片容器占用的宽度 */
-.paper-box-image {
-    flex: 0 0 18% !important; /* 调整图片列占用的宽度比例，默认通常较大 */
-    margin-right: 0 !important; /* 移除旧有的外边距 */
-}
-
-/* 确保文字部分占据剩余空间 */
-.paper-box-text {
-    flex: 1 !important;
-    padding-left: 0 !important; /* 移除可能存在的左内边距 */
-}
-
-/* 针对手机端自动恢复布局 */
-@media (max-width: 576px) {
-    .paper-box {
-        flex-direction: column;
-        gap: 5px !important;
-    }
-}
 </style>
 
 
