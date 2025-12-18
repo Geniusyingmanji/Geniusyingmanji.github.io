@@ -40,13 +40,13 @@ My research interests lie in VLM and Agents, now I'm trying my best to explore. 
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SGI.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【SGI】 Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows [[homepage](https://internscience.github.io/SGI-Page/)] [[code](https://github.com/InternScience/SGI-Bench)] [[data](https://huggingface.co/collections/InternScience/sgi-bench)], preprint
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mm-helix.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SciEvalKit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【SciEvalKit】 SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence [[homepage](https://opencompass.org.cn/Intern-Discovery-Eval)], preprint
 </div>
