@@ -38,7 +38,7 @@ Hi there 👋👋 !
 
 My name is Ivan Zhou(周奕帆), a graduate student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/), superviesd by [Prof. Xue Yang](https://yangxue0827.github.io/) and [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/).
 
-My research interests lie in VLM and Agents, now I'm trying my best to explore. Wish me good luck!
+My research interests lie in VLM, Agents and AI Scientists, now I'm trying my best to explore. Wish me good luck!
 
 🌟 I’m open to any possible discussions or collaboration opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
@@ -100,7 +100,6 @@ My research interests lie in VLM and Agents, now I'm trying my best to explore. 
 - *2023.05* Honorable Mention. Mathematical Contest in Modeling.
 - *2023.04* National Second Prize Nomination. Undergraduate Mathematical Modeling Competition.
 - *2023.03* National Second Prize. Group Programming Ladder Tournament.
-- *2022.11* Bronze Medal in the 8th CCPC China Collegiate Programming Contest (Guangzhou).
 - *2022.08* National Thrid Prize. The Lanqiao Cup Competition National Finals.
 
 # 🎖 Scholarships and Honors
