@@ -96,7 +96,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 
 #  🏆 Competition Awards
-- *2023.12* Silver Medal in the 48th ACM-ICPC International Collegiate Programming Competition Regional Competition (Jinan).
+- *2023.12* Silver Medal in the 48th **ACM-ICPC** International Collegiate Programming Competition Regional Competition (Jinan).
 - *2023.05* Honorable Mention. Mathematical Contest in Modeling.
 - *2023.04* National Second Prize Nomination. Undergraduate Mathematical Modeling Competition.
 - *2023.03* National Second Prize. Group Programming Ladder Tournament.
@@ -106,7 +106,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2024.12* Wanshan Lake Scholarship, SJTU
 - *2024.09* First-class scholarship, SJTU
 - *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2023.10* Top 10 Student Figures of the Year (Top 10 students in the school each year, Award Rate: 0.03%), FJNU
+- *2023.10* Top 10 Student Figures of the Year (**Top 10** students in the school each year, Award Rate: 0.03%), FJNU
 - *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📖 Educations
