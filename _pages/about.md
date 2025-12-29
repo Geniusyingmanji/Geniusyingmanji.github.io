@@ -53,7 +53,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SGI.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-【SGI】 Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows [[homepage](https://internscience.github.io/SGI-Page/)] [[code](https://github.com/InternScience/SGI-Bench)] [[data](https://huggingface.co/collections/InternScience/sgi-bench)], preprint
+【SGI】 Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows [[homepage](https://internscience.github.io/SGI-Page/)] [[paper](https://arxiv.org/abs/2512.16969)] [[code](https://github.com/InternScience/SGI-Bench)] [[data](https://huggingface.co/collections/InternScience/sgi-bench)], preprint
 </div>
 </div>
 
