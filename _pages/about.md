@@ -59,7 +59,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SciEvalKit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-【SciEvalKit】 SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence [[homepage](https://opencompass.org.cn/Intern-Discovery-Eval)] [[paper](https://arxiv.org/abs/2512.22334)], preprint
+【SciEvalKit】 SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence [[homepage](https://opencompass.org.cn/Intern-Discovery-Eval)] [[paper](https://arxiv.org/abs/2512.22334)] [[code](https://github.com/InternScience/SciEvalKit)] [[leaderboard](https://huggingface.co/spaces/InternScience/SciEval-Leaderboard)], preprint
 </div>
 </div>
 
