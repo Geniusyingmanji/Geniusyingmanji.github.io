@@ -52,6 +52,11 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/verybig.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+【VBVR】 A Very Big Video Reasoning Suite, preprint
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SGI.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【SGI】 Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows [[homepage](https://internscience.github.io/SGI-Page/)] [[paper](https://arxiv.org/abs/2512.16969)] [[code](https://github.com/InternScience/SGI-Bench)] [[data](https://huggingface.co/collections/InternScience/sgi-bench)], preprint
