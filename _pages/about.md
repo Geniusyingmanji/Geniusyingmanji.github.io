@@ -142,7 +142,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - Conference on Neural Information Processing Systems (NeurIPS). Reviewer: 2025.
 
 # 💻 Internships
-- *2025.04 - now*, Shanghai AI Laboratory
+- *2025.04 - 2026.02*, Shanghai AI Laboratory
 - *2024.06 - 2025.03*, Tencent
 - *2023.11 - 2024.03*, ByteDance
 - *2023.06 - 2023.11*, THU AIR
