@@ -59,7 +59,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/verybig.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-【VBVR】 A Very Big Video Reasoning Suite [[homepage](https://video-reason.com/)], preprint
+【VBVR】 A Very Big Video Reasoning Suite [[homepage](https://video-reason.com/)] [[paper](https://arxiv.org/abs/2602.20159)] [[model](https://huggingface.co/Video-Reason/VBVR-Wan2.2)], preprint
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SGI.png' alt="sym" width="80%"></div></div>
