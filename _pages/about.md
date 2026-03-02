@@ -46,7 +46,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 
 # 🔥 News
-- *2026.03* 🎉🎉 [[Perceptual Constancy](https://arxiv.org/abs/2502.10273)] is accepted by ES-Reasoning @ ICLR 2026.
+- *2026.03* 🎉🎉 [Perceptual Constancy](https://arxiv.org/abs/2502.10273) is accepted by ES-Reasoning @ ICLR 2026.
 - *2026.01* 🎉🎉 [MM-HELIX](https://mm-helix.github.io/) is accepted by ICLR 2026. See you in Brazil🇧🇷!
 - *2025.05* 🎉🎉 [CharToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna🇦🇹!
 - *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna🇦🇹!
