@@ -46,7 +46,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 
 # 🔥 News
-- *2026.03* 🎉🎉 [Perceptual Constancy](https://arxiv.org/abs/2502.10273) is accepted by ES-Reasoning @ ICLR 2026.
+- *2026.03* 🎉🎉 [ConstancyBench](https://arxiv.org/abs/2502.10273) is accepted by ES-Reasoning @ ICLR 2026.
 - *2026.01* 🎉🎉 [MM-HELIX](https://mm-helix.github.io/) is accepted by ICLR 2026. See you in Brazil🇧🇷!
 - *2025.05* 🎉🎉 [CharToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna🇦🇹!
 - *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna🇦🇹!
@@ -55,7 +55,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES-Reasoning @ ICLR 2026</div><img src='images/workshop_constancy.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-【Perceptual Constancy】 Probing Perceptual Constancy in Large Vision-Language Models [[paper](https://arxiv.org/abs/2502.10273)], preprint
+【ConstancyBench】 Probing Perceptual Constancy in Large Vision-Language Models [[paper](https://arxiv.org/abs/2502.10273)], preprint
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/verybig.png' alt="sym" width="80%"></div></div>
