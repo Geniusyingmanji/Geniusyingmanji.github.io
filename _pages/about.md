@@ -53,6 +53,11 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/frontier.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+【Frontier-Eng】 Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization [[paper](https://arxiv.org/abs/2604.12290)], preprint
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES-Reasoning @ ICLR 2026</div><img src='images/workshop_constancy.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【ConstancyBench】 Probing Perceptual Constancy in Large Vision-Language Models [[paper](https://arxiv.org/abs/2502.10273)], ES-Reasoning @ ICLR 2026
