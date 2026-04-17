@@ -131,9 +131,11 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2020.09 - 2024.06*, Fujian Normal University.
 
 # ⚙️ Projects
-[SciEvalKit](https://github.com/InternScience/SciEvalKit)(core contributor): SciEval is an open-source evaluation framework and leaderboard for measuring the scientific intelligence of large language and vision–language models.
+[CitationClaw](https://github.com/VisionXLab/CitationClaw)(core contributor): A Lightweight Engine for Discovering Scientific Impact through Citations. Turning Every Citation into Explainable Impact. It has already collected *300* more stars on GitHub.
 
-[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected *700* more stars on GitHub.
+[SciEvalKit](https://github.com/InternScience/SciEvalKit)(core contributor): SciEval is an open-source evaluation framework and leaderboard for measuring the scientific intelligence of large language and vision–language models. It has already collected *80* more stars on GitHub.
+
+[CSBasicKnowledge](https://github.com/CS-BAOYAN/CSBasicKnowledge)(core contributor): This repo will record some knowledge about computer science, artificial intelligence and EE. It has already collected *700* more stars on GitHub.
 
 # 💬 Invited Talks
 - Sharing experience in recommended postgraduate students for exemption, Spring 2024.
