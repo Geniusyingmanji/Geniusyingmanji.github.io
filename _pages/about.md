@@ -46,6 +46,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 
 # 🔥 News
+- *2026.05* 🎉🎉 [VBVR](https://video-reason.com/) is accepted by ICML 2026. See you in Seoul🇰🇷!
 - *2026.03* 🎉🎉 [ConstancyBench](https://arxiv.org/abs/2502.10273) is accepted by ES-Reasoning @ ICLR 2026.
 - *2026.01* 🎉🎉 [MM-HELIX](https://mm-helix.github.io/) is accepted by ICLR 2026. See you in Brazil🇧🇷!
 - *2025.05* 🎉🎉 [CharToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna🇦🇹!
@@ -63,9 +64,9 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 【ConstancyBench】 Probing Perceptual Constancy in Large Vision-Language Models [[paper](https://arxiv.org/abs/2502.10273)], ES-Reasoning @ ICLR 2026
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/verybig.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2026</div><img src='images/verybig.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-【VBVR】 A Very Big Video Reasoning Suite [[homepage](https://video-reason.com/)] [[paper](https://arxiv.org/abs/2602.20159)] [[data](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset)] [[model](https://huggingface.co/Video-Reason/VBVR-Wan2.2)] [[leaderboard](https://huggingface.co/spaces/Video-Reason/VBVR-Bench-Leaderboard)], preprint
+【VBVR】 A Very Big Video Reasoning Suite [[homepage](https://video-reason.com/)] [[paper](https://arxiv.org/abs/2602.20159)] [[data](https://huggingface.co/datasets/Video-Reason/VBVR-Dataset)] [[model](https://huggingface.co/Video-Reason/VBVR-Wan2.2)] [[leaderboard](https://huggingface.co/spaces/Video-Reason/VBVR-Bench-Leaderboard)], **ICML 2026**
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SGI.png' alt="sym" width="80%"></div></div>
