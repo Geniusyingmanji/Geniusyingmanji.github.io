@@ -47,13 +47,18 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 # 🔥 News
 - *2026.05* 🎉🎉 [VBVR](https://video-reason.com/) is accepted by ICML 2026. See you in Seoul🇰🇷!
-- *2026.03* 🎉🎉 [ConstancyBench](https://arxiv.org/abs/2502.10273) is accepted by ES-Reasoning @ ICLR 2026.
+- *2026.03* 🎉🎉 [ConstancyBench](https://arxiv.org/abs/2502.10273) is accepted by ES-Reasoning @ ICLR 2026. See you in Brazil🇧🇷!
 - *2026.01* 🎉🎉 [MM-HELIX](https://mm-helix.github.io/) is accepted by ICLR 2026. See you in Brazil🇧🇷!
 - *2025.05* 🎉🎉 [CharToM-QA](https://arxiv.org/abs/2501.01705) is accepted by ACL 2025. See you in Vienna🇦🇹!
 - *2024.01* 🎉🎉 [AuG-KD](https://openreview.net/forum?id=fcqWJ8JgMR) is accepted by ICLR 2024. See you in Vienna🇦🇹!
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/skillgenbench.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+【SkillGenBench】 SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents [[paper](https://arxiv.org/abs/2605.18693)], preprint
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/frontier.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【Frontier-Eng】 Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization [[paper](https://arxiv.org/abs/2604.12290)], preprint
