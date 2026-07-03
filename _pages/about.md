@@ -129,6 +129,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 
 
 #  🏆 Competition Awards
+- *2026.07* National Thrid Prize. MinerU Data Intelligence and Cutting-Edge Corpus Challenge. 
 - *2023.12* Silver Medal in the 48th **ACM-ICPC** International Collegiate Programming Competition Regional Competition (Jinan).
 - *2023.05* Honorable Mention. Mathematical Contest in Modeling.
 - *2023.04* National Second Prize Nomination. Undergraduate Mathematical Modeling Competition.
@@ -167,7 +168,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 </div>
 
 # 📚 Academic Activities
-- Conference on Empirical Methods in Natural Language Processing (EMNLP). Reviewer: 2024, 2025.
+- Conference on Empirical Methods in Natural Language Processing (EMNLP). Reviewer: 2024, 2025, 2026.
 - Conference on Neural Information Processing Systems (NeurIPS). Reviewer: 2025.
 
 # 💻 Internships
