@@ -54,6 +54,11 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ideashavegenomes.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+【Ideas Have Genomes】 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation [[paper](https://arxiv.org/abs/2607.08758)], preprint
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/researchclawbench.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【ResearchClawBench】 ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research [[paper](https://arxiv.org/abs/2606.07591)], preprint
