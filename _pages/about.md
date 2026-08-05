@@ -145,12 +145,11 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2024.12* Wanshan Lake Scholarship, SJTU
 - *2024.09* First-class scholarship, SJTU
 - *2023.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
-- *2023.10* Top 10 Student Figures of the Year (**Top 10** students in the school each year, Award Rate: 0.03%), FJNU
+- *2023.10* Top 10 Student Figures of the Year (**Top 10** students in the school each year, Award Rate: 0.03%)
 - *2022.10* National Scholarship (Award Rate: 0.2% national-wide) Ministry of Education, China
 
 # 📖 Educations
 - *2024.09 - now*, Shanghai Jiao Tong University. 
-- *2020.09 - 2024.06*, Fujian Normal University.
 
 # ⚙️ Projects
 [CitationClaw](https://github.com/VisionXLab/CitationClaw)(core contributor): A Lightweight Engine for Discovering Scientific Impact through Citations. Turning Every Citation into Explainable Impact. It has already collected *300* more stars on GitHub.
@@ -166,8 +165,8 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TA-algorithm</div><img src='images/algorithm.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, FJNU, Spring 2023.
-- Teaching Assistant, Digital Image Processing, Undergrads, CCCS, FJNU, Spring 2023.
+- Teaching Assistant, Design and Analysis of Algorithms, Undergrads, CCCS, Spring 2023.
+- Teaching Assistant, Digital Image Processing, Undergrads, CCCS, Spring 2023.
 
 </div>
 </div>
