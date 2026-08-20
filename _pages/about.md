@@ -54,6 +54,11 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 - *2023.08* 🎉🎉 [SFRLD](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_34) is accepted by PRCV 2023. See you in Xiamen🇨🇳!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SemaPLC.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+【SemaPLC】 SemaPLC:AProject-Grounded,Verification-GatedAgentHarnessfor PLCCodeGeneration [[paper](https://arxiv.org/abs/2608.18565)], preprint
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ideashavegenomes.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 【Ideas Have Genomes】 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation [[paper](https://arxiv.org/abs/2607.08758)], preprint
