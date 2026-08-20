@@ -56,7 +56,7 @@ My research interests lie in VLM, Agents and AI Scientists, now I'm trying my be
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SemaPLC.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-【SemaPLC】 SemaPLC:AProject-Grounded,Verification-GatedAgentHarnessfor PLCCodeGeneration [[paper](https://arxiv.org/abs/2608.18565)], preprint
+【SemaPLC】 SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation [[paper](https://arxiv.org/abs/2608.18565)], preprint
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ideashavegenomes.png' alt="sym" width="80%"></div></div>
